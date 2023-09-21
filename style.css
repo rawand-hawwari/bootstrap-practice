@@ -1,0 +1,12 @@
+.hero{
+    background-image:url(download.jfif);
+    opacity: 0.9;
+    color: #3de439;
+    font-weight: bold;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+footer{
+    background-color: rgb(168, 255, 255);
+}
